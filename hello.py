@@ -1,2 +1,2 @@
-name = input('Name:')
+name = 'World'
 print(f'Hello, {name}')
